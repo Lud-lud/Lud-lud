@@ -6,5 +6,4 @@ Vivo a vida a estudar:
 - Bootcamp da DIO em Ciência de Dados
 - Fundamentos de Negócios na Harvard Business Publishing
 
-![I'm trying hard to grow... Please don't walk on me! Thank you.](don't walk on me.jpg)
-
+![I'm trying hard to grow... Please don't walk on me! Thank you.](images/don't_walk_on_me.jpg)
