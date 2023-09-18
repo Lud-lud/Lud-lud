@@ -1,9 +1,6 @@
 ### Olá! Eu sou a Lud 👋
 
-Vivo a vida a estudar:
-- Mestrado em Ecologia e Evolução
-- MBA em Data Science & Analytics
-- Bootcamp da DIO em Ciência de Dados
-- Fundamentos de Negócios na Harvard Business Publishing
+Ecóloga e Analista Ambiental - UFG
+Quase mestre em Ecologia e Evolução - UFG
 
 ![I'm trying hard to grow... Please don't walk on me! Thank you.](images/don't_walk_on_me.jpg)
