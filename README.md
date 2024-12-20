@@ -10,5 +10,3 @@ Aqui você pode acompanhar alguns dos meus projetos desenvolvidos durante minha 
 
 ---
 Meu [LinkedIn](https://www.linkedin.com/in/ludmila-silva-resende/)
-
-<img width="950px" align="center" src="https://raw.githubusercontent.com/Lud-lud/Lud-lud/main/images/capa_github.jpg" />
