@@ -1,12 +1,10 @@
 ### Olá! Boas-vindas!
 ---
-Meu nome é Ludmila, sou formada em Ecologia e Análise Ambiental e mestre em Ecologia e Evolução pela Universidade Federal de Goiás.
+Meu nome é Ludmila, sou cientista de dados na WAM Group, uma empresa de hotelaria, parques aquáticos e multipropriedades.
 
-Tive meu primeiro contato com programação, Estatística e técnicas de machine learning durante a graduação. No mestrado, me aprofundei ainda mais nestas ferramentas.
+Sou formada em Ecologia e Análise Ambiental, mestre em Ecologia e Evolução pela Universidade Federal de Goiás e tenho MBA em Data Science & Analytics pela USP/Esalq.
 
-Ainda durante o mestrado, decidi cursar o MBA em Data Science & Analytics pela USP/Esalq para me capacitar como cientista de dados.
-
-Aqui você pode acompanhar alguns dos meus projetos desenvolvidos durante esta jornada de aprendizagem.
+Aqui você pode acompanhar alguns dos meus projetos desenvolvidos durante minha jornada em dados.
 
 ---
 Meu [LinkedIn](https://www.linkedin.com/in/ludmila-silva-resende/)
